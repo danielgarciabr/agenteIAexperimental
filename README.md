@@ -59,7 +59,7 @@ Antes de executar este projeto, você precisará ter:
 1.  **Clone este repositório:**
 
     ```bash
-    git clone [https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)
+    git clone (https://github.com/danielgarciabr/agenteIAexperimental)
     cd agenteIAexperimental
     ```
 
